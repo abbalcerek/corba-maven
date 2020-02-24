@@ -1,4 +1,4 @@
-# Coraba hello world client/server application
+# Corba hello world client/server application
 
 
 ### Building - generate stubs and build java client and server
